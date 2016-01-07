@@ -27,3 +27,9 @@ Donec malesuada aliquam **gravida**.
 3. Performance
 
 This is what ruby code would look like `puts 'Hello World'`
+
+Codeship status 
+
+https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master
+
+.....
